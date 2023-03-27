@@ -1,2 +1,2 @@
-# flappy-key
-Flappy bird but you tap your YubiKey to fly
+# Tappy Key
+Flappy bird but you tap your YubiKey to fly.
